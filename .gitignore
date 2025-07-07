@@ -1,0 +1,5 @@
+*.exe
+*.obj
+*.user
+x64/
+Release/
