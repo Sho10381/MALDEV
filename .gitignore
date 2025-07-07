@@ -1,5 +1,9 @@
+# VS-generated folders
+.vs/
+*.ipch
 *.exe
 *.obj
 *.user
+*.pdb
 x64/
 Release/
